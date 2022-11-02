@@ -1,7 +1,7 @@
 
 # SARtris Classic
 
-Run in your browser! **[DEMO](https://thisamj.github.io/sourcerun?example=sartris%20classic)**
+Run in your browser! **[DEMO](https://thisamj.github.io/sourcerun?example=sartris%20classic)** (switch left menu to SAR Hud)
 
 (tl;dr - I made Tetris for NES in Portal 2)
 
