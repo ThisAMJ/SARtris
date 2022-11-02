@@ -1,6 +1,8 @@
 
 # SARtris Classic
 
+Run in your browser! **[DEMO](https://thisamj.github.io/sourcerun?example=sartris%20classic)**
+
 (tl;dr - I made Tetris for NES in Portal 2)
 
 Since its creation, the [SAR](https://sar.portal2.sr) speedrunning plugin has been able to
