@@ -43,7 +43,7 @@ You can bind these actions to keys using `bind <key> <action>`.
 |        Action         | Description
 | --------------------- | -----------
 | `sartris_toggle`      | Toggles SARtris on/off.
-| `sartris_newgame`     | Resets SARtris to a new game.
+| `sartris_newgame`     | Resets SARtris to a new game. You can optionally specify<br/>a number with which to seed the RNG for the next game.
 | `+sartris_left`       | Move your tetromino left.
 | `+sartris_right`      | Move your tetromino right.
 | `+sartris_drop`       | Move your tetromino down.
