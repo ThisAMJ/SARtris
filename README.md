@@ -40,16 +40,18 @@ have the best performance.
 
 You can bind these actions to keys using `bind <key> <action>`.
 
-|        Action         | Description
-| --------------------- | -----------
-| `sartris_toggle`      | Toggles SARtris on/off.
-| `sartris_newgame`     | Resets SARtris to a new game. You can optionally specify<br/>a number with which to seed the RNG for the next game.
-| `sartris_get_seed`    | Get the RNG seed of the current game.
-| `+sartris_left`       | Move your tetromino left.
-| `+sartris_right`      | Move your tetromino right.
-| `+sartris_drop`       | Move your tetromino down.
-| `+sartris_rotate_cw`  | Rotate your tetromino clockwise.
-| `+sartris_rotate_ccw` | Rotate your tetromino counter-clockwise.
+|        Action           | Description
+| ----------------------- | -----------
+| `sartris_toggle`        | Toggles SARtris on/off.
+| `sartris_newgame`       | Resets SARtris to a new game. You can optionally specify<br/>a number with which to seed the RNG for the next game.
+| `sartris_get_seed`      | Get the RNG seed of the current game.
+| `sartris_get_prev_seed` | Get the RNG seed of the previous game. Useful if you died<br/>
+before you could get the seed.
+| `+sartris_left`         | Move your tetromino left.
+| `+sartris_right`        | Move your tetromino right.
+| `+sartris_drop`         | Move your tetromino down.
+| `+sartris_rotate_cw`    | Rotate your tetromino clockwise.
+| `+sartris_rotate_ccw`   | Rotate your tetromino counter-clockwise.
 
 You can customise the behaviour of SARtris Classic by changing
 certain 'svars' using `svar_set <name> <value>`.
