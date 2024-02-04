@@ -6,7 +6,7 @@ Run in your browser! **[DEMO](https://thisamj.github.io/sourcerun?example=sartri
 (tl;dr - I made Tetris for NES in Portal 2)
 
 Since its creation, the [SAR](https://sar.portal2.sr) speedrunning plugin has been able to
-do much more than simply speedrun. In June of last year, this was
+do much more than simply speedrun. In June of 2021, this was
 taken to the extreme with the advent of Config+, an esoteric
 programming language that runs entirely within the config
 files of Portal 2.
