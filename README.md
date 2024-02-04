@@ -64,3 +64,4 @@ certain 'svars' using `svar_set <name> <value>`.
 | `sartris_region`     | `NTSC`  | Select ROM region. `NTSC` or `PAL`.
 | `sartris_draw_next`  |   `1`   | Whether to draw the 'NEXT' piece.
 | `sartris_nes_color`  |   `0`   | Whether to use the NES palette for colors.
+| `sartris_use_7bag`   |   `0`   | Whether to use the 7-Bag randomiser instead of classic. Reduces piece droughts!
