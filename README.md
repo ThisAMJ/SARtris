@@ -53,6 +53,7 @@ You can bind these actions to keys using `bind <key> <action>`.
 | `+sartris_drop`         | Move your tetromino down.
 | `+sartris_rotate_cw`    | Rotate your tetromino clockwise.
 | `+sartris_rotate_ccw`   | Rotate your tetromino counter-clockwise.
+| `+sartris_hold`         | Hold your current tetromino. Only if `sartris_use_hold` is on.
 
 You can customise the behaviour of SARtris Classic by changing
 certain 'svars' using `svar_set <name> <value>`.
@@ -64,3 +65,4 @@ certain 'svars' using `svar_set <name> <value>`.
 | `sartris_draw_next`  |   `1`   | Whether to draw the 'NEXT' piece.
 | `sartris_nes_color`  |   `0`   | Whether to use the NES palette for colors.
 | `sartris_use_7bag`   |   `0`   | Whether to use the 7-Bag randomiser instead of classic. Reduces piece droughts!
+| `sartris_use_hold`   |   `0`   | Enable the ability to hold pieces.
