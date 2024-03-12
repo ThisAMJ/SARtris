@@ -26,7 +26,7 @@ for 'modern' Tetris.](https://github.com/RainbowwPhoenixx/SARtris)
 Keep in mind that it was made quite a while ago, and therefore doesn't
 have the best performance.
 
-I've also made Minesweeper in a similar way, which can be downloaded from [here](https://cdn.discordapp.com/attachments/730456805808799775/1068106578139549797/minesweeper.cfg).
+I've also made Minesweeper in a similar way, which can be downloaded from [here](https://cdn.discordapp.com/attachments/730456805808799775/1068106578139549797/minesweeper.cfg?ex=65fc03c4&is=65e98ec4&hm=326dac3bace15b692583830125768cbd3a2cb0f69e1113e16003617056f93db8&).
 
 ## Installation
 
